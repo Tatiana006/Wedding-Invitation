@@ -1,0 +1,116 @@
+body
+{
+	margin:0;
+	padding:0;
+}
+#background
+{
+    background-color: white;
+    width: 1280px;
+}
+#content
+{
+	width: 1280px;
+	height:3300px;
+	margin: 0 auto;
+}
+#logo img
+{
+   position: relative;
+   top: 40px;
+   left: 180px;
+   width: 900px;
+   height:200px;
+
+}
+#div
+{
+   position: relative;
+   left: 235px;
+   width: 800px;
+   height:200px;
+}
+#topphoto img
+{
+   position: relative;
+   left: 140px;
+   height: 500px;
+   width:800;
+}
+#div2
+{
+   position: relative;
+   left: 235px;
+   width: 800px;
+   height:200px;
+}
+#info
+{
+    font-size: 40px;
+	font-family: arapey;
+	text-align: center;
+	color: black;
+	position: relative;
+	line-height: 140%;
+}
+#wed
+{
+   position: relative;
+   left: 270px;
+   width: 800px;
+   height:200px;
+}
+#info1
+{
+	margin: -70px;
+	font-size: 40px;
+	font-family: arapey;
+	text-align: center;
+	color: black;
+	position: relative;
+	line-height: 140%;
+}
+#location
+{
+   position: relative;
+   left: 220px;
+   top: 100px;
+   height: 500px;
+   width:800;
+}
+#park
+{
+	top: 105px;
+	font-size: 40px;
+	font-family: arapey;
+	text-align: center;
+	color: black;
+	position: relative;
+	line-height: 140%;
+}
+#parking img
+{
+   position: relative;
+   left: 233px;
+   top: 100px;
+   height: 500px;
+   width:800;
+}
+#rsvp
+{
+	top: 130px;
+	font-size: 40px;
+	font-family: arapey;
+	text-align: center;
+	color: black;
+	position: relative;
+	line-height: 140%;
+}
+#bottom img
+{
+   position: relative;
+   top:100px;
+   left: 360px;
+   width: 500px;
+   height:100px;
+}
